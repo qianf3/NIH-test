@@ -1,11 +1,11 @@
 APIVersion: v1.12.1
 name: nih-test
 type: drupal8
-docroot: ""
+docroot: web
 php_version: "7.2"
 webserver_type: nginx-fpm
-router_http_port: "81"
-router_https_port: "444"
+router_http_port: "83"
+router_https_port: "446"
 xdebug_enabled: false
 additional_hostnames: []
 additional_fqdns: []
